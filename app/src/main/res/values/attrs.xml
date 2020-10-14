@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FourWayArrow">
+        <attr name="innerCircleDiameter" format="float"/>
+        <attr name="outerCircleColor" format="color"/>
+        <attr name="innerCircleColor" format="color"/>
+        <attr name="arrowColor" format="color"/>
+    </declare-styleable>
+</resources>
